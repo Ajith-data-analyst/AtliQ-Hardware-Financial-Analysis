@@ -60,18 +60,5 @@ This dataset covers:
 
 ---
 
-## 📌 Notes
-
-- All values are approximate and used for analysis purposes only.
-- Product category names are abbreviated for clarity.
-
----
-
-## 📬 Feedback & Contribution
-
-If you have suggestions or want to contribute further insights or visualizations, feel free to open an issue or pull request.
-
----
-
-**Created with ❤️ by [Your Name]**
+**Created with ❤️ by [AJITH R]**
 
