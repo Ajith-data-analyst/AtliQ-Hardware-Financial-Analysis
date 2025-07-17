@@ -60,5 +60,5 @@ This dataset covers:
 
 ---
 
-**Created with ❤️ by [AJITH R]**
+**Created with by AJITH R**
 
